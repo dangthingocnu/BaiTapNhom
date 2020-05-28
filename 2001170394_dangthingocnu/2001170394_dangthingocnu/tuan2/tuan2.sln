@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuan2", "tuan2\tuan2.csproj", "{8F05FABD-64C6-4DFF-9E95-C921DFFE456D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taoControl", "taoControl\taoControl.csproj", "{0C151602-8C70-407F-B0C2-4B3C3534B2B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F05FABD-64C6-4DFF-9E95-C921DFFE456D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F05FABD-64C6-4DFF-9E95-C921DFFE456D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F05FABD-64C6-4DFF-9E95-C921DFFE456D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F05FABD-64C6-4DFF-9E95-C921DFFE456D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C151602-8C70-407F-B0C2-4B3C3534B2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C151602-8C70-407F-B0C2-4B3C3534B2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C151602-8C70-407F-B0C2-4B3C3534B2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C151602-8C70-407F-B0C2-4B3C3534B2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

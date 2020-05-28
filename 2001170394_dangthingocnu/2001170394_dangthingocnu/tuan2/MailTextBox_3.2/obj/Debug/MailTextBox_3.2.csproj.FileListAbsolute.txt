@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\MailTextBox_3.2\bin\Debug\MailTextBox_3.2.dll
+E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\MailTextBox_3.2\bin\Debug\MailTextBox_3.2.pdb
+E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\MailTextBox_3.2\obj\Debug\MailTextBox_3.2.dll
+E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\MailTextBox_3.2\obj\Debug\MailTextBox_3.2.pdb
+E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\MailTextBox_3.2\obj\Debug\MailTextBox_3.2.csprojResolveAssemblyReference.cache
+D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\MailTextBox_3.2\bin\Debug\MailTextBox_3.2.dll
+D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\MailTextBox_3.2\bin\Debug\MailTextBox_3.2.pdb
+D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\MailTextBox_3.2\obj\Debug\MailTextBox_3.2.dll
+D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\MailTextBox_3.2\obj\Debug\MailTextBox_3.2.pdb

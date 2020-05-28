@@ -1,0 +1,4 @@
+D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\ControlDataGirdView\bin\Debug\ControlDataGirdView.dll
+D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\ControlDataGirdView\bin\Debug\ControlDataGirdView.pdb
+D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\ControlDataGirdView\obj\Debug\ControlDataGirdView.dll
+D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\ControlDataGirdView\obj\Debug\ControlDataGirdView.pdb
