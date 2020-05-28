@@ -1,9 +1,0 @@
-E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\taoControl\bin\Debug\taoControl.dll
-E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\taoControl\bin\Debug\taoControl.pdb
-E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\taoControl\obj\Debug\taoControl.dll
-E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\taoControl\obj\Debug\taoControl.pdb
-E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\taoControl\obj\Debug\taoControl.csprojResolveAssemblyReference.cache
-D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\taoControl\bin\Debug\taoControl.dll
-D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\taoControl\bin\Debug\taoControl.pdb
-D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\taoControl\obj\Debug\taoControl.dll
-D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\taoControl\obj\Debug\taoControl.pdb

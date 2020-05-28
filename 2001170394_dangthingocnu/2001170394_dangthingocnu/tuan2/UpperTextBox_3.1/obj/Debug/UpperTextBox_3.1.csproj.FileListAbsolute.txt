@@ -1,9 +1,0 @@
-E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\UpperTextBox_3.1\bin\Debug\UpperTextBox_3.1.dll
-E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\UpperTextBox_3.1\bin\Debug\UpperTextBox_3.1.pdb
-E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\UpperTextBox_3.1\obj\Debug\UpperTextBox_3.1.dll
-E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\UpperTextBox_3.1\obj\Debug\UpperTextBox_3.1.pdb
-E:\LuuDuLieuSinhVien\2001170394_dangthingocnu\tuan2\UpperTextBox_3.1\obj\Debug\UpperTextBox_3.1.csprojResolveAssemblyReference.cache
-D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\UpperTextBox_3.1\bin\Debug\UpperTextBox_3.1.dll
-D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\UpperTextBox_3.1\bin\Debug\UpperTextBox_3.1.pdb
-D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\UpperTextBox_3.1\obj\Debug\UpperTextBox_3.1.dll
-D:\Phat trien phan mem va ung dung thong minh\2001170394_dangthingocnu\2001170394_dangthingocnu\tuan2\UpperTextBox_3.1\obj\Debug\UpperTextBox_3.1.pdb
