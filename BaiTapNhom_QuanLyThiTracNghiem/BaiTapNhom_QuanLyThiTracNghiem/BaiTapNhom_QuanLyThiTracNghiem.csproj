@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3864C918-5BBE-414C-8A0E-9F4B9572FA0B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BaiTapNhom_QuanLyThiTracNghiem</RootNamespace>
+    <AssemblyName>BaiTapNhom_QuanLyThiTracNghiem</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v19.1" />
+    <Reference Include="DevExpress.Data.v19.1" />
+    <Reference Include="DevExpress.Printing.v19.1.Core" />
+    <Reference Include="DevExpress.Utils.v19.1" />
+    <Reference Include="DevExpress.XtraBars.v19.1" />
+    <Reference Include="DevExpress.Sparkline.v19.1.Core" />
+    <Reference Include="DevExpress.XtraEditors.v19.1" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon\Book-Blank-Book-icon.png" />
+    <Content Include="icon\Book-icon.png" />
+    <Content Include="icon\book_blank_book_icon_4Ua_icon.ico" />
+    <Content Include="icon\Button-Log-Off-icon.png" />
+    <Content Include="icon\chart-icon.png" />
+    <Content Include="icon\company-building-icon.png" />
+    <Content Include="icon\keyring-icon.png" />
+    <Content Include="icon\nhacungcap.png" />
+    <Content Include="icon\Pen-Red-icon.png" />
+    <Content Include="icon\Preppy-icon.png" />
+    <Content Include="icon\producer.png" />
+    <Content Include="icon\receipt.png" />
+    <Content Include="icon\Reports-icon.png" />
+    <Content Include="icon\User-Group-icon.png" />
+    <Content Include="icon\Users-Change-User-icon.png" />
+    <Content Include="Resources\Actions-im-ban-user-icon.png" />
+    <Content Include="Resources\Actions-system-run-icon.png" />
+    <Content Include="Resources\Actions-view-list-text-icon %281%29.png" />
+    <Content Include="Resources\Actions-view-list-text-icon.png" />
+    <Content Include="Resources\Apps-system-software-update-icon %281%29.png" />
+    <Content Include="Resources\Apps-system-software-update-icon %282%29.png" />
+    <Content Include="Resources\Apps-system-software-update-icon %282%291.png" />
+    <Content Include="Resources\Apps-system-software-update-icon %283%29.png" />
+    <Content Include="Resources\Apps-system-software-update-icon %284%29.png" />
+    <Content Include="Resources\Apps-system-software-update-icon.png" />
+    <Content Include="Resources\baocao.png" />
+    <Content Include="Resources\bill.png" />
+    <Content Include="Resources\Books-1-icon.png" />
+    <Content Include="Resources\Books-icon.png" />
+    <Content Include="Resources\bookstore.jpg" />
+    <Content Include="Resources\bookstore1.jpg" />
+    <Content Include="Resources\Button-Help-icon %281%29.png" />
+    <Content Include="Resources\Button-Help-icon %281%291.png" />
+    <Content Include="Resources\Button-Help-icon.png" />
+    <Content Include="Resources\Categories-system-help-icon.png" />
+    <Content Include="Resources\Categories-system-help-icon1.png" />
+    <Content Include="Resources\chart-icon.png" />
+    <Content Include="Resources\d.PNG" />
+    <Content Include="Resources\danhmuc.png" />
+    <Content Include="Resources\danhmuc1.png" />
+    <Content Include="Resources\danhmuc2.png" />
+    <Content Include="Resources\Document-Blank-icon.png" />
+    <Content Include="Resources\Finance-Purchase-Order-icon.png" />
+    <Content Include="Resources\Food-List-Ingredients-icon %281%29.png" />
+    <Content Include="Resources\Food-List-Ingredients-icon %281%291.png" />
+    <Content Include="Resources\Food-List-Ingredients-icon %281%292.png" />
+    <Content Include="Resources\Food-List-Ingredients-icon %282%29.png" />
+    <Content Include="Resources\Food-List-Ingredients-icon.png" />
+    <Content Include="Resources\Get-Info-icon.png" />
+    <Content Include="Resources\Get-Info-icon1.png" />
+    <Content Include="Resources\groups-icon.png" />
+    <Content Include="Resources\groups-icon1.png" />
+    <Content Include="Resources\help.png" />
+    <Content Include="Resources\help1.png" />
+    <Content Include="Resources\hethong.png" />
+    <Content Include="Resources\if_floppy-disk_531889.png" />
+    <Content Include="Resources\info.png" />
+    <Content Include="Resources\information.png" />
+    <Content Include="Resources\key-icon.png" />
+    <Content Include="Resources\Money-icon.png" />
+    <Content Include="Resources\Monitor-icon.png" />
+    <Content Include="Resources\receipt.png" />
+    <Content Include="Resources\restore-icon.png" />
+    <Content Include="Resources\settings-work-tool_318-85925.jpg" />
+    <Content Include="Resources\settings.png" />
+    <Content Include="Resources\Sheets-icon.png" />
+    <Content Include="Resources\shop-cart-icon.png" />
+    <Content Include="Resources\system.png" />
+    <Content Include="Resources\system1.png" />
+    <Content Include="Resources\Untitled-1.jpg" />
+    <Content Include="Resources\User-blue-icon.png" />
+    <Content Include="Resources\User-Group-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
