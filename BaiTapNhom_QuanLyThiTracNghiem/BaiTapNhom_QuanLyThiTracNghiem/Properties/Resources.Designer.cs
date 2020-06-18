@@ -63,6 +63,16 @@ namespace BaiTapNhom_QuanLyThiTracNghiem.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Actions_im_ban_user_icon {
+            get {
+                object obj = ResourceManager.GetObject("Actions-im-ban-user-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Actions_system_run_icon {
             get {
                 object obj = ResourceManager.GetObject("Actions-system-run-icon", resourceCulture);
@@ -123,9 +133,49 @@ namespace BaiTapNhom_QuanLyThiTracNghiem.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Monitor_icon {
+            get {
+                object obj = ResourceManager.GetObject("Monitor-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Pen_Red_icon {
             get {
                 object obj = ResourceManager.GetObject("Pen-Red-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Preppy_icon {
+            get {
+                object obj = ResourceManager.GetObject("Preppy-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap User_Group_icon {
+            get {
+                object obj = ResourceManager.GetObject("User-Group-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap User_Group_icon1 {
+            get {
+                object obj = ResourceManager.GetObject("User-Group-icon1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
