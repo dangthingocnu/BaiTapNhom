@@ -1,0 +1,4 @@
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\BAL_DLL\bin\Debug\BAL_DLL.dll.config
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\BAL_DLL\bin\Debug\BAL_DLL.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\BAL_DLL\bin\Debug\BAL_DLL.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\BAL_DLL\obj\Debug\BAL_DLL.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\BAL_DLL\obj\Debug\BAL_DLL.pdb
