@@ -1,0 +1,16 @@
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\Bussiness\bin\Debug\DataAccess.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\Bussiness\bin\Debug\DataAccess.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\Bussiness\bin\Debug\DataAccess.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\Bussiness\bin\Debug\DataAccess.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete

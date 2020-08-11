@@ -1,0 +1,11 @@
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\ThietKeControl\bin\Debug\ThietKeControl.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\ThietKeControl\bin\Debug\ThietKeControl.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\ThietKeControl\obj\Debug\ThietKeControl.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\ThietKeControl\obj\Debug\ThietKeControl.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\ThietKeControl\obj\Debug\ThietKeControl.csprojResolveAssemblyReference.cache
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\ThietKeControl\bin\Debug\ThietKeControl.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\ThietKeControl\bin\Debug\ThietKeControl.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\ThietKeControl\obj\Debug\ThietKeControl.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\ThietKeControl\obj\Debug\ThietKeControl.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\ThietKeControl\obj\Debug\ThietKeControl.csprojAssemblyReference.cache
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\ThietKeControl\obj\Debug\ThietKeControl.csproj.CoreCompileInputs.cache

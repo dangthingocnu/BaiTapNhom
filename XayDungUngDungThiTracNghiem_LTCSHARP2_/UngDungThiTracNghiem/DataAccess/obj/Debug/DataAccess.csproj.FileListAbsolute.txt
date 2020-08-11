@@ -1,0 +1,8 @@
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\DataAccess\obj\Debug\DataAccess.pdb

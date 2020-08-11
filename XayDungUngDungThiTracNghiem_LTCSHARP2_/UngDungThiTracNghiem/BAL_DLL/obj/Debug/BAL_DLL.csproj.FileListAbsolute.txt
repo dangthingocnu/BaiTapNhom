@@ -1,0 +1,11 @@
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\BAL_DLL\bin\Debug\BAL_DLL.dll.config
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\BAL_DLL\bin\Debug\BAL_DLL.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\BAL_DLL\bin\Debug\BAL_DLL.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\BAL_DLL\obj\Debug\BAL_DLL.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\BAL_DLL\obj\Debug\BAL_DLL.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\BAL_DLL\bin\Debug\BAL_DLL.dll.config
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\BAL_DLL\bin\Debug\BAL_DLL.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\BAL_DLL\bin\Debug\BAL_DLL.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\BAL_DLL\obj\Debug\BAL_DLL.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\BAL_DLL\obj\Debug\BAL_DLL.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\BAL_DLL\obj\Debug\BAL_DLL.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\ThietKeControl\bin\Debug\ThietKeControl.dll
-C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\ThietKeControl\bin\Debug\ThietKeControl.pdb
-C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\ThietKeControl\obj\Debug\ThietKeControl.dll
-C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\ThietKeControl\obj\Debug\ThietKeControl.pdb
-C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\ThietKeControl\obj\Debug\ThietKeControl.csprojResolveAssemblyReference.cache

@@ -1,0 +1,115 @@
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\UngDungThiTracNghiem.exe.config
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\UngDungThiTracNghiem.exe
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\UngDungThiTracNghiem.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\BAL_DLL.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\Bussiness.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DataAccess.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\Bussiness.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\BAL_DLL.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DataAccess.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.csprojResolveAssemblyReference.cache
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_DangNhap.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_Dieuhanh.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_KetQua.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_THI.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_TTDSachGiaoVien.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_TTDSachKetQua.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_TTDSachThiSinh.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_TTNganHangCauHoi.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Properties.Resources.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.ThongtinTS.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.UCBaiThi.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.csproj.GenerateResource.Cache
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.exe.licenses
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.exe
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_QLCH.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_QLCHCS.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_QLCHX.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_QLGV.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ThietKeControl.dll
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ThietKeControl.pdb
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_XoaGiaoVien.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_QLMonThi.resources
+C:\Users\Tri Tran\Downloads\UngDungThiTracNghiem\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_LienHe.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_Dieuhanh.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_KetQua.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_LienHe.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_QLCHCS.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_QLGV.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_QLMonThi.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_THI.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_TTDSachGiaoVien.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_TTDSachKetQua.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_TTDSachThiSinh.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_XoaGiaoVien.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.frmDangNhap.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Properties.Resources.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.ThongtinTS.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.UCBaiThi.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.csproj.GenerateResource.Cache
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.exe.licenses
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\UngDungThiTracNghiem.exe.config
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\UngDungThiTracNghiem.exe
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\UngDungThiTracNghiem.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\BAL_DLL.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\Bussiness.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ThietKeControl.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DataAccess.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\Bussiness.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ThietKeControl.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\BAL_DLL.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DataAccess.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.exe
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.pdb
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.frm_nganhangcauhoi.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_QLCHX1.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.Form_QLCH1.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.FrmChiTietBaiThi.resources
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\BAL_DLL.dll.config
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.csprojAssemblyReference.cache
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.csproj.CoreCompileInputs.cache
+C:\Users\PC NGOC NU\Desktop\XayDungUngDungThiTracNghiem_LTCSHARP2_NHOM_10\UngDungThiTracNghiem\UngDungThiTracNghiem\obj\Debug\UngDungThiTracNghiem.csproj.CopyComplete
